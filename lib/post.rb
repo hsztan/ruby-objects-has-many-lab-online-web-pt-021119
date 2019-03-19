@@ -1,6 +1,7 @@
 class Post
   attr_accessor :title, :author
   attr_reader :all
+
   @@all = []
 
   def initialize(title)
