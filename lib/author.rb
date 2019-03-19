@@ -18,7 +18,7 @@ class Author
   #   post = Post.new(title)
   #   add_post(post)
   # end
-  # 
+  #
   # def self.post_count
   #   post_count = 0
   #   @@authors.each {|author| post_count += author.posts.count}
